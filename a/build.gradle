@@ -1,0 +1,5 @@
+description = 'Project A'
+
+dependencies {
+    compile "org.springframework:spring-context:4.0.1.RELEASE"
+}

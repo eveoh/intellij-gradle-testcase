@@ -1,0 +1,10 @@
+apply plugin: 'war'
+apply plugin: 'jetty'
+
+description = 'Project B'
+
+dependencies {
+    compile project(':a')
+
+    compile "org.springframework:spring-webmvc:4.0.1.RELEASE"
+}
