@@ -12,6 +12,7 @@ Removing the 'propdeps' plugin resolves this problem (but this is clearly not a 
 * IntelliJ 13.0 (Build #IU-133.193): works like expected
 * IntelliJ 13.0.2 (Build #IU-133.696): failure
 * IntelliJ 13.1 EAP (Build #IU-134.1342): failure
+* IntelliJ 13.1 EAP (Build #IU-134.1445): failure
 
 Success:
 ![IntelliJ 13.0](https://raw.github.com/eveoh/intellij-gradle-testcase/master/success.png)
